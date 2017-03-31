@@ -1,0 +1,24 @@
+<resources>
+	<string name="app_name">Currency Converter</string>
+	<string name="title_info">Informacija</string>
+	<string name="title_converter">Konvertavimas</string>
+	<string name="hint_value">Konvertuojama suma</string>
+	<string name="doConversion">Konvertuoti</string>
+	<string name="selectAccount">Pasirinkite sąskaitą</string>
+	<string name="error_empty">Neįvesta reikšmė</string>
+	<string name="error_wrongFormat">Blogas formatas</string>
+	<string name="error_notEnoughMoney">Sąskaitoje nepakanka pinigų</string>
+	<string name="error_mustNotMatch">Valiuta negali sutapti</string>
+	<string name="info_taxAfterFive">Bus taikomas 0.7% komisinis mokestis</string>
+	<string name="info_noTaxFirstFive">Pirmi 5 mokėjimai - nemokamai</string>
+	<string name="info_successMessage">Jūs konvertavote %1$.2f %2$s į %3$.2f %4$s. Komisinis mokestis - %5$.2f %6$s.</string>
+	<string name="error_selectAccount">Pasirinkite sąskaitą</string>
+	<string name="history_paidTaxes">Komisinis mokestis: %1$.2f %2$s</string>
+	<string name="history_from">%1$.2f %2$s</string>
+	<string name="history_to">%1$.2f %2$s</string>
+	<string name="info_totalTax">Viso mokesčių: %1$.2f %2$s</string>
+	<string name="info_conversionSuccess">Konvertavimas sėkmingas</string>
+	<string name="info_error">Klaida</string>
+	<string name="info_checkInternetSettings">Patikrinkite interneto nustatymus</string>
+	<string name="info_loading">Kraunama</string>
+</resources>
